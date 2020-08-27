@@ -1,5 +1,5 @@
 # Arithmetic Adaptive Encoding
-encode.cpp contains encoder and decode.cpp decoder. Follow steps below to run the program:
+### encode.cpp contains encoder and decode.cpp decoder. Follow steps below to run the program:
 1. make
 2. ./encode ${file_to_encode} ${file_name_after_encode}
 3. ./decode ${file_to_decode} ${file_name_after_decode}
